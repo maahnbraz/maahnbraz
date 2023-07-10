@@ -47,8 +47,8 @@ Meu username é @maahnbraz:
 ### :computer: These are my networks and ways to contact me
 
 <p align="center">
-	[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link)](https://github.com/maahnbraz) 
-	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/marinanbraz/)
+	[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link](https://icons8.com.br/icon/AZOZNnY73haj/github))](https://github.com/maahnbraz) 
+	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link](https://icons8.com.br/icon/60444/linkedin-circundado)](https://www.linkedin.com/in/marinanbraz/)
 </p>
 
 ---
