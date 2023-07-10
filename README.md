@@ -4,11 +4,12 @@
 
 ### `Hello` I'm Marina.
 
-My username is @maahnbraz:
+Meu username é @maahnbraz:
 
 ```
 "If you can dream it, you can do it. Always remember that this whole thing started with a dream and a mouse.
 (Se você pode sonhar, você pode fazer. Lembre que tudo isso começou com um sonho e um rato)"
+(Walt Disney)
 ```
 
 ---
@@ -17,11 +18,26 @@ My username is @maahnbraz:
 
 ### :books: I'm currently learning
 
-<code><a href="https://github.com/danielex1999/JavaScript-Course" target="_blank"><img src="img/Learned_technologies/js.jpg" width="22px" alt="js"></a></code>
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/html.png" width="30px" alt="html"></a></code>
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/css.png" width="26px" alt="css"></a></code>
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/vscode.png" width="26px" alt="vscode"></a></code>
-<code><a href="https://github.com/danielex1999" target="_blank"><img src="img/Learned_technologies/git.png" width="26px" alt="git"></a></code>
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+  <a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <a href="https://jestjs.io/pt-BR/">
+  <img src="https://skillicons.dev/icons?i=jest"/>
+  <a href="https://figma.com/">
+  <img src="https://skillicons.dev/icons?i=figma"/>
+  <a href="https://firebase.google.com/">
+  <img src="https://skillicons.dev/icons?i=firebase"/>
+  <a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+   <a href="https://nodejs.org/en">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
 
 
 ---
@@ -31,9 +47,8 @@ My username is @maahnbraz:
 ### :computer: These are my networks and ways to contact me
 
 <p align="center">
-	<a href="https://github.com/maahnbraz"><img src="img/Contact_me/github.png" alt="GitHub" style="max-width:100%;"></a>
-	<a href="https://www.linkedin.com/in/marinanbraz"><img src="img/Contact_me/linkedin.png" alt="LinkedIn" style="max-width:100%;"></a>
-	<a href="mailto:marinanbraz@gmail.com"><img src="img/Contact_me/mail.png" alt="email" style="max-width:100%;"></a>
+	[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link)](https://github.com/maahnbraz) 
+	[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/marinanbraz/)
 </p>
 
 ---
