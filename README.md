@@ -12,7 +12,7 @@ _Walt Disney_
 
 ---
 
-### :books: I'm currently learning
+### :books: No momento estou aprendendo sobre:
 
 <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics">
   <img src="https://skillicons.dev/icons?i=html"/>
