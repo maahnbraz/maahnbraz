@@ -1,3 +1,6 @@
+
+![Hi, I'm Marina](https://github.com/maahnbraz/maahnbraz/assets/118226199/3140e470-46c1-4ee2-9b56-46a8850017bb)
+
 ## About me
  
 <img align="right" width="240" src="img/noctis.gif"/>
