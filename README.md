@@ -4,17 +4,13 @@
 
 ### `Hello` I'm Marina.
 
-Meu username é @maahnbraz:
-
 ```
-"If you can dream it, you can do it. Always remember that this whole thing started with a dream and a mouse.
-(Se você pode sonhar, você pode fazer. Lembre que tudo isso começou com um sonho e um rato)"
-(Walt Disney)
+"If you can dream it, you can do it.
+(Se você pode sonhar, você pode fazer)"
+_Walt Disney_
 ```
 
 ---
-
-# Biography
 
 ### :books: I'm currently learning
 
@@ -42,16 +38,14 @@ Meu username é @maahnbraz:
 
 ---
 
-## Contact
+## Contato :computer:
 
-### :computer: These are my networks and ways to contact me
-
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/marinanbraz/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 </p>
 
 ---
 
 <h3 align="center">
-    ⬇⬇ Check my pinned projects below ⬇⬇
+    ⬇⬇ Confira meus projetos abaixo ⬇⬇
 </h3>
