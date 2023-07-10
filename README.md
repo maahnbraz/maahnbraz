@@ -47,8 +47,7 @@ Meu username é @maahnbraz:
 ### :computer: These are my networks and ways to contact me
 
 <p align="center">
-	<a href="https://linkedin.com/in/marinanbraz/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg]" alt="maahnbraz-linkk" height="30" width="40" /> </a>
-	<a href="https://github.com/maahnbraz" target="blank"><img align="center" src="[https://icons8.com.br/icon/12599/github]" alt="maahnbraz-git" height="30" width="40" /> </a>
+<a href="https://www.linkedin.com/in/marinanbraz/" target="_blank" style="text-decoration:none;" ><img align="center"   height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"></a>
 </p>
 
 ---
